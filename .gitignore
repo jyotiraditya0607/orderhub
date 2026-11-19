@@ -1,0 +1,11 @@
+target/
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+.mule/
+.vscode/
+*.env
+.env
+secure-key.txt
